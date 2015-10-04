@@ -1,0 +1,22 @@
+{
+  "name": "geo3-bootstrap",
+  "version": "1.0.0",
+  "homepage": "https://github.com/Bartuz/geo3-bootstrap",
+  "authors": [
+    "bartuz <filip.bartuzi@gmail.com>"
+  ],
+  "description": "geo-bootstrap fork with bootstrap 3 support",
+  "main": "swatch/bootstrap.css",
+  "moduleType": [],
+  "keywords": [
+    "geo-bootstrap"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
